@@ -1,0 +1,89 @@
+[
+  {
+    "key": "backspace",
+    "event": "press",
+    "time": 1744722504.191771
+  },
+  {
+    "key": "backspace",
+    "event": "release",
+    "time": 1744722504.2798774,
+    "hold_duration": 0.08810639381408691
+  },
+  {
+    "key": "i",
+    "event": "press",
+    "time": 1744722504.3920033
+  },
+  {
+    "key": "i",
+    "event": "release",
+    "time": 1744722504.4800925,
+    "hold_duration": 0.0880892276763916
+  },
+  {
+    "key": "shift",
+    "event": "press",
+    "time": 1744722504.7598898
+  },
+  {
+    "key": "A",
+    "event": "press",
+    "time": 1744722504.8716877
+  },
+  {
+    "key": "shift",
+    "event": "release",
+    "time": 1744722504.967826,
+    "hold_duration": 0.20793604850769043
+  },
+  {
+    "key": "a",
+    "event": "release",
+    "time": 1744722505.007885
+  },
+  {
+    "key": "j",
+    "event": "press",
+    "time": 1744722505.111509
+  },
+  {
+    "key": "i",
+    "event": "press",
+    "time": 1744722505.1755812
+  },
+  {
+    "key": "j",
+    "event": "release",
+    "time": 1744722505.2156289,
+    "hold_duration": 0.10411977767944336
+  },
+  {
+    "key": "i",
+    "event": "release",
+    "time": 1744722505.256179,
+    "hold_duration": 0.0805978775024414
+  },
+  {
+    "key": "2",
+    "event": "press",
+    "time": 1744722505.3998344
+  },
+  {
+    "key": "0",
+    "event": "press",
+    "time": 1744722505.471913
+  },
+  {
+    "key": "2",
+    "event": "release",
+    "time": 1744722505.4879308,
+    "hold_duration": 0.08809638023376465
+  },
+  {
+    "key": "0",
+    "event": "release",
+    "time": 1744722505.5439885,
+    "hold_duration": 0.07207536697387695
+  }
+]

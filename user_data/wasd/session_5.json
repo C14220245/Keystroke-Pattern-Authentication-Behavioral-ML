@@ -1,0 +1,77 @@
+[
+  {
+    "key": "backspace",
+    "event": "press",
+    "time": 1744739145.4760544
+  },
+  {
+    "key": "backspace",
+    "event": "release",
+    "time": 1744739145.5641482,
+    "hold_duration": 0.08809375762939453
+  },
+  {
+    "key": "3",
+    "event": "press",
+    "time": 1744739145.6603866
+  },
+  {
+    "key": "3",
+    "event": "release",
+    "time": 1744739145.723973,
+    "hold_duration": 0.06358647346496582
+  },
+  {
+    "key": "ctrl_l",
+    "event": "press",
+    "time": 1744739146.0753756
+  },
+  {
+    "key": "ctrl_l",
+    "event": "release",
+    "time": 1744739146.4924154,
+    "hold_duration": 0.4170398712158203
+  },
+  {
+    "key": "ctrl_l",
+    "event": "press",
+    "time": 1744739146.6521022
+  },
+  {
+    "key": "\u0013",
+    "event": "press",
+    "time": 1744739146.7637482
+  },
+  {
+    "key": "ctrl_l",
+    "event": "release",
+    "time": 1744739146.907435,
+    "hold_duration": 0.25533270835876465
+  },
+  {
+    "key": "s",
+    "event": "release",
+    "time": 1744739146.9089372
+  },
+  {
+    "key": "ctrl_l",
+    "event": "press",
+    "time": 1744739148.0602524
+  },
+  {
+    "key": "\u0016",
+    "event": "press",
+    "time": 1744739148.1156454
+  },
+  {
+    "key": "ctrl_l",
+    "event": "release",
+    "time": 1744739148.1882098,
+    "hold_duration": 0.12795734405517578
+  },
+  {
+    "key": "v",
+    "event": "release",
+    "time": 1744739148.20424
+  }
+]

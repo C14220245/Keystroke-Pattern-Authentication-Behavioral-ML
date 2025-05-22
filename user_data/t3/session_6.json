@@ -1,0 +1,122 @@
+[
+  {
+    "key": "shift",
+    "event": "press",
+    "time": 1744730120.889196
+  },
+  {
+    "key": "B",
+    "event": "press",
+    "time": 1744730121.009932
+  },
+  {
+    "key": "B",
+    "event": "release",
+    "time": 1744730121.0896907,
+    "hold_duration": 0.0797586441040039
+  },
+  {
+    "key": "shift",
+    "event": "release",
+    "time": 1744730121.1057227,
+    "hold_duration": 0.21652674674987793
+  },
+  {
+    "key": "u",
+    "event": "press",
+    "time": 1744730121.2418754
+  },
+  {
+    "key": "u",
+    "event": "release",
+    "time": 1744730121.305377,
+    "hold_duration": 0.06350159645080566
+  },
+  {
+    "key": "d",
+    "event": "press",
+    "time": 1744730121.3614738
+  },
+  {
+    "key": "d",
+    "event": "release",
+    "time": 1744730121.4500933,
+    "hold_duration": 0.08861947059631348
+  },
+  {
+    "key": "i",
+    "event": "press",
+    "time": 1744730121.4896736
+  },
+  {
+    "key": "i",
+    "event": "release",
+    "time": 1744730121.5533721,
+    "hold_duration": 0.06369853019714355
+  },
+  {
+    "key": "shift",
+    "event": "press",
+    "time": 1744730121.6497357
+  },
+  {
+    "key": "A",
+    "event": "press",
+    "time": 1744730121.7138636
+  },
+  {
+    "key": "shift",
+    "event": "release",
+    "time": 1744730121.7938404,
+    "hold_duration": 0.1441047191619873
+  },
+  {
+    "key": "a",
+    "event": "release",
+    "time": 1744730121.8653307
+  },
+  {
+    "key": "j",
+    "event": "press",
+    "time": 1744730121.9219475
+  },
+  {
+    "key": "i",
+    "event": "press",
+    "time": 1744730121.9936032
+  },
+  {
+    "key": "j",
+    "event": "release",
+    "time": 1744730122.0176992,
+    "hold_duration": 0.09575176239013672
+  },
+  {
+    "key": "i",
+    "event": "release",
+    "time": 1744730122.081881,
+    "hold_duration": 0.08827781677246094
+  },
+  {
+    "key": "2",
+    "event": "press",
+    "time": 1744730122.1855283
+  },
+  {
+    "key": "2",
+    "event": "release",
+    "time": 1744730122.2736871,
+    "hold_duration": 0.08815884590148926
+  },
+  {
+    "key": "0",
+    "event": "press",
+    "time": 1744730122.2746885
+  },
+  {
+    "key": "0",
+    "event": "release",
+    "time": 1744730122.3539379,
+    "hold_duration": 0.07924938201904297
+  }
+]

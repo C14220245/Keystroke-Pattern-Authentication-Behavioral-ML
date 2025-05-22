@@ -1,0 +1,67 @@
+[
+  {
+    "key": "shift",
+    "event": "press",
+    "time": 1744723711.1599886
+  },
+  {
+    "key": "A",
+    "event": "press",
+    "time": 1744723711.2566588
+  },
+  {
+    "key": "shift",
+    "event": "release",
+    "time": 1744723711.3282752,
+    "hold_duration": 0.16828656196594238
+  },
+  {
+    "key": "a",
+    "event": "release",
+    "time": 1744723711.3923533
+  },
+  {
+    "key": "j",
+    "event": "press",
+    "time": 1744723711.3923533
+  },
+  {
+    "key": "j",
+    "event": "release",
+    "time": 1744723711.4799774,
+    "hold_duration": 0.08762407302856445
+  },
+  {
+    "key": "i",
+    "event": "press",
+    "time": 1744723711.4809778
+  },
+  {
+    "key": "i",
+    "event": "release",
+    "time": 1744723711.5681164,
+    "hold_duration": 0.08713865280151367
+  },
+  {
+    "key": "2",
+    "event": "press",
+    "time": 1744723711.6232076
+  },
+  {
+    "key": "0",
+    "event": "press",
+    "time": 1744723711.7123408
+  },
+  {
+    "key": "2",
+    "event": "release",
+    "time": 1744723711.7283654,
+    "hold_duration": 0.10515785217285156
+  },
+  {
+    "key": "0",
+    "event": "release",
+    "time": 1744723711.8004775,
+    "hold_duration": 0.08813667297363281
+  }
+]

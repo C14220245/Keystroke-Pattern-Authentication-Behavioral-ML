@@ -1,0 +1,46 @@
+[
+  {
+    "key": "w",
+    "event": "press",
+    "time": 1744739107.2837253
+  },
+  {
+    "key": "a",
+    "event": "press",
+    "time": 1744739107.3953385
+  },
+  {
+    "key": "w",
+    "event": "release",
+    "time": 1744739107.4599123,
+    "hold_duration": 0.17618703842163086
+  },
+  {
+    "key": "s",
+    "event": "press",
+    "time": 1744739107.5880783
+  },
+  {
+    "key": "a",
+    "event": "release",
+    "time": 1744739107.6676755,
+    "hold_duration": 0.2723369598388672
+  },
+  {
+    "key": "d",
+    "event": "press",
+    "time": 1744739107.7090762
+  },
+  {
+    "key": "s",
+    "event": "release",
+    "time": 1744739107.7481194,
+    "hold_duration": 0.16004109382629395
+  },
+  {
+    "key": "d",
+    "event": "release",
+    "time": 1744739107.8282254,
+    "hold_duration": 0.11914920806884766
+  }
+]

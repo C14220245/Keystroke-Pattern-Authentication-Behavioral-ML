@@ -1,0 +1,83 @@
+[
+  {
+    "key": "d",
+    "event": "release",
+    "time": 1744722516.8794696
+  },
+  {
+    "key": "i",
+    "event": "press",
+    "time": 1744722516.8804703
+  },
+  {
+    "key": "i",
+    "event": "release",
+    "time": 1744722516.944051,
+    "hold_duration": 0.06358075141906738
+  },
+  {
+    "key": "shift",
+    "event": "press",
+    "time": 1744722516.9911454
+  },
+  {
+    "key": "A",
+    "event": "press",
+    "time": 1744722517.1359181
+  },
+  {
+    "key": "shift",
+    "event": "release",
+    "time": 1744722517.2395291,
+    "hold_duration": 0.2483837604522705
+  },
+  {
+    "key": "a",
+    "event": "release",
+    "time": 1744722517.2725575
+  },
+  {
+    "key": "j",
+    "event": "press",
+    "time": 1744722517.3681662
+  },
+  {
+    "key": "i",
+    "event": "press",
+    "time": 1744722517.4242158
+  },
+  {
+    "key": "j",
+    "event": "release",
+    "time": 1744722517.4562764,
+    "hold_duration": 0.08811020851135254
+  },
+  {
+    "key": "i",
+    "event": "release",
+    "time": 1744722517.503857,
+    "hold_duration": 0.07964110374450684
+  },
+  {
+    "key": "2",
+    "event": "press",
+    "time": 1744722517.6800642
+  },
+  {
+    "key": "0",
+    "event": "press",
+    "time": 1744722517.7201102
+  },
+  {
+    "key": "2",
+    "event": "release",
+    "time": 1744722517.7756796,
+    "hold_duration": 0.09561538696289062
+  },
+  {
+    "key": "0",
+    "event": "release",
+    "time": 1744722517.8082125,
+    "hold_duration": 0.08810234069824219
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "key": "shift",
+    "event": "press",
+    "time": 1744766011.4174936
+  },
+  {
+    "key": "B",
+    "event": "press",
+    "time": 1744766011.605576
+  },
+  {
+    "key": "B",
+    "event": "release",
+    "time": 1744766011.681081,
+    "hold_duration": 0.07550501823425293
+  },
+  {
+    "key": "shift",
+    "event": "release",
+    "time": 1744766011.7180882,
+    "hold_duration": 0.3005945682525635
+  },
+  {
+    "key": "u",
+    "event": "press",
+    "time": 1744766011.7786026
+  },
+  {
+    "key": "u",
+    "event": "release",
+    "time": 1744766011.8901138,
+    "hold_duration": 0.11151123046875
+  },
+  {
+    "key": "d",
+    "event": "press",
+    "time": 1744766011.8911138
+  },
+  {
+    "key": "d",
+    "event": "release",
+    "time": 1744766012.00363,
+    "hold_duration": 0.11251616477966309
+  },
+  {
+    "key": "i",
+    "event": "press",
+    "time": 1744766012.00363
+  },
+  {
+    "key": "i",
+    "event": "release",
+    "time": 1744766012.1171536,
+    "hold_duration": 0.11352372169494629
+  },
+  {
+    "key": "shift",
+    "event": "press",
+    "time": 1744766012.1666853
+  },
+  {
+    "key": "A",
+    "event": "press",
+    "time": 1744766012.2442293
+  },
+  {
+    "key": "shift",
+    "event": "release",
+    "time": 1744766012.353733,
+    "hold_duration": 0.18704771995544434
+  },
+  {
+    "key": "a",
+    "event": "release",
+    "time": 1744766012.3917315
+  },
+  {
+    "key": "j",
+    "event": "press",
+    "time": 1744766012.4087343
+  },
+  {
+    "key": "i",
+    "event": "press",
+    "time": 1744766012.4842455
+  },
+  {
+    "key": "j",
+    "event": "release",
+    "time": 1744766012.5228128,
+    "hold_duration": 0.11407852172851562
+  },
+  {
+    "key": "i",
+    "event": "release",
+    "time": 1744766012.5608215,
+    "hold_duration": 0.07657599449157715
+  },
+  {
+    "key": "2",
+    "event": "press",
+    "time": 1744766012.6753902
+  },
+  {
+    "key": "2",
+    "event": "release",
+    "time": 1744766012.784914,
+    "hold_duration": 0.10952377319335938
+  }
+]

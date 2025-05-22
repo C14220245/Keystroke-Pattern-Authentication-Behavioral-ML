@@ -1,0 +1,123 @@
+[
+  {
+    "key": "shift",
+    "event": "press",
+    "time": 1744742257.1666079
+  },
+  {
+    "key": "B",
+    "event": "press",
+    "time": 1744742257.1676087
+  },
+  {
+    "key": "B",
+    "event": "release",
+    "time": 1744742257.2331805,
+    "hold_duration": 0.06557178497314453
+  },
+  {
+    "key": "shift",
+    "event": "release",
+    "time": 1744742257.29775,
+    "hold_duration": 0.13114213943481445
+  },
+  {
+    "key": "u",
+    "event": "press",
+    "time": 1744742257.2987509
+  },
+  {
+    "key": "u",
+    "event": "release",
+    "time": 1744742257.363814,
+    "hold_duration": 0.0650632381439209
+  },
+  {
+    "key": "d",
+    "event": "press",
+    "time": 1744742257.4283679
+  },
+  {
+    "key": "d",
+    "event": "release",
+    "time": 1744742257.4939392,
+    "hold_duration": 0.06557130813598633
+  },
+  {
+    "key": "i",
+    "event": "press",
+    "time": 1744742257.559493
+  },
+  {
+    "key": "i",
+    "event": "release",
+    "time": 1744742257.623562,
+    "hold_duration": 0.06406903266906738
+  },
+  {
+    "key": "shift",
+    "event": "press",
+    "time": 1744742257.6886287
+  },
+  {
+    "key": "A",
+    "event": "press",
+    "time": 1744742257.6901367
+  },
+  {
+    "key": "A",
+    "event": "release",
+    "time": 1744742257.75472,
+    "hold_duration": 0.06458330154418945
+  },
+  {
+    "key": "shift",
+    "event": "release",
+    "time": 1744742257.8192947,
+    "hold_duration": 0.13066601753234863
+  },
+  {
+    "key": "j",
+    "event": "press",
+    "time": 1744742257.8202956
+  },
+  {
+    "key": "j",
+    "event": "release",
+    "time": 1744742257.885357,
+    "hold_duration": 0.06506133079528809
+  },
+  {
+    "key": "i",
+    "event": "press",
+    "time": 1744742257.9509432
+  },
+  {
+    "key": "i",
+    "event": "release",
+    "time": 1744742258.0160162,
+    "hold_duration": 0.06507301330566406
+  },
+  {
+    "key": "2",
+    "event": "press",
+    "time": 1744742258.080569
+  },
+  {
+    "key": "2",
+    "event": "release",
+    "time": 1744742258.1456385,
+    "hold_duration": 0.06506943702697754
+  },
+  {
+    "key": "0",
+    "event": "press",
+    "time": 1744742258.2103913
+  },
+  {
+    "key": "0",
+    "event": "release",
+    "time": 1744742258.2759616,
+    "hold_duration": 0.06557035446166992
+  }
+]

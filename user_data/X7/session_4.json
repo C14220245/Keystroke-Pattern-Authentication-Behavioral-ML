@@ -1,0 +1,123 @@
+[
+  {
+    "key": "shift",
+    "event": "press",
+    "time": 1744730806.8830364
+  },
+  {
+    "key": "B",
+    "event": "press",
+    "time": 1744730806.8840377
+  },
+  {
+    "key": "B",
+    "event": "release",
+    "time": 1744730806.949169,
+    "hold_duration": 0.06513118743896484
+  },
+  {
+    "key": "shift",
+    "event": "release",
+    "time": 1744730807.0141056,
+    "hold_duration": 0.13106918334960938
+  },
+  {
+    "key": "u",
+    "event": "press",
+    "time": 1744730807.015107
+  },
+  {
+    "key": "u",
+    "event": "release",
+    "time": 1744730807.079737,
+    "hold_duration": 0.06463003158569336
+  },
+  {
+    "key": "d",
+    "event": "press",
+    "time": 1744730807.1443832
+  },
+  {
+    "key": "d",
+    "event": "release",
+    "time": 1744730807.2099042,
+    "hold_duration": 0.0655210018157959
+  },
+  {
+    "key": "i",
+    "event": "press",
+    "time": 1744730807.2750483
+  },
+  {
+    "key": "i",
+    "event": "release",
+    "time": 1744730807.340032,
+    "hold_duration": 0.06498384475708008
+  },
+  {
+    "key": "shift",
+    "event": "press",
+    "time": 1744730807.405124
+  },
+  {
+    "key": "A",
+    "event": "press",
+    "time": 1744730807.4061258
+  },
+  {
+    "key": "A",
+    "event": "release",
+    "time": 1744730807.4707353,
+    "hold_duration": 0.06460952758789062
+  },
+  {
+    "key": "shift",
+    "event": "release",
+    "time": 1744730807.535928,
+    "hold_duration": 0.13080406188964844
+  },
+  {
+    "key": "j",
+    "event": "press",
+    "time": 1744730807.535928
+  },
+  {
+    "key": "j",
+    "event": "release",
+    "time": 1744730807.601577,
+    "hold_duration": 0.06564903259277344
+  },
+  {
+    "key": "i",
+    "event": "press",
+    "time": 1744730807.6666734
+  },
+  {
+    "key": "i",
+    "event": "release",
+    "time": 1744730807.7322927,
+    "hold_duration": 0.06561923027038574
+  },
+  {
+    "key": "2",
+    "event": "press",
+    "time": 1744730807.7959342
+  },
+  {
+    "key": "2",
+    "event": "release",
+    "time": 1744730807.861739,
+    "hold_duration": 0.06580471992492676
+  },
+  {
+    "key": "0",
+    "event": "press",
+    "time": 1744730807.9273946
+  },
+  {
+    "key": "0",
+    "event": "release",
+    "time": 1744730807.991122,
+    "hold_duration": 0.06372737884521484
+  }
+]

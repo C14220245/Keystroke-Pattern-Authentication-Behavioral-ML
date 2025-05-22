@@ -1,0 +1,42 @@
+[
+  {
+    "key": "e",
+    "event": "press",
+    "time": 1744200861.7884362
+  },
+  {
+    "key": "e",
+    "event": "release",
+    "time": 1744200861.883945
+  },
+  {
+    "key": "n",
+    "event": "press",
+    "time": 1744200861.9239447
+  },
+  {
+    "key": "n",
+    "event": "release",
+    "time": 1744200862.0364544
+  },
+  {
+    "key": "a",
+    "event": "press",
+    "time": 1744200862.163965
+  },
+  {
+    "key": "i",
+    "event": "press",
+    "time": 1744200862.2194724
+  },
+  {
+    "key": "a",
+    "event": "release",
+    "time": 1744200862.259476
+  },
+  {
+    "key": "i",
+    "event": "release",
+    "time": 1744200862.2919827
+  }
+]
